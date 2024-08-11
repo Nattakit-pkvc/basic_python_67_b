@@ -1,11 +1,17 @@
+pwd
+
+ls
+
+ls -al
+
 git init
 ("ทำความรู้จัก")
 
-git config --global user.name "Nattakit-pkvc"
-git config --global user.email "6749010031@phuketvc.ac.th"
-
 git remote add origin https://github.com/Nattakit-pkvc/basic_python_67_b.git 
 ("เชื่อม Git Hub")
+
+git config --global user.name "Nattakit-pkvc"
+git config --global user.email "6749010031@phuketvc.ac.th"
 
 git add .
 ("เลือกไฟล์")
