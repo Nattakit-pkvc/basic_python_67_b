@@ -18,7 +18,7 @@ git config --global user.email " "
 git add .
 ("เลือกไฟล์")
 
-git commit -m "Python Collections"
+git commit -m "Python Conditions"
 ("เตรียมไฟล์")
 
 git push origin main
