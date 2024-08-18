@@ -1,3 +1,5 @@
+code . ("เปิดไล์ใน VSCode")
+
 pwd
 
 ls

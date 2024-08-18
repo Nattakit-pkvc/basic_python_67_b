@@ -20,7 +20,7 @@ t = เวลา (s)
 print("Hello world!!!")
 
 x = 5  # Interger
-y = "Hey Brus"  # String
+y = "Hey Bruh"  # String
 print(x, y)
 
 x = str(3)
@@ -57,17 +57,17 @@ myvariableName = "John"
 # Part : Python String (ตัวอักษร)
 #
 """
-x = "Hey Brus"
+x = "Hey Bruh"
 print(x)
 
 y = """
-1 Hey Brus
-2 Hey Brus
-3 Hey Brus
+1 Hey Bruh
+2 Hey Bruh
+3 Hey Bruh
 """
 print(y)
 
-x = "Hey Brus"
+x = "Hey Bruh"
 print(x[2])
 print(len(x))
 print("Hey" in x)
@@ -75,7 +75,7 @@ print("What'sup" not in x)
 print(x.upper())  # ตัวพิมพ์ใหญ่
 print(x.lower())  # ตัวพิมพ์เล็ก
 
-print(x.replace("Brus", "Sis"))  # แทนที่
+print(x.replace("Bruh", "Sis"))  # แทนที่
 print(x.split(" "))  # แยกคำ
 
 
