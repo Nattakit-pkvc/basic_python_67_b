@@ -25,4 +25,12 @@ git pull origin main\
 ("ดึงไฟล์จาก git")
 \
 git clone (url)\
-("ดึงไฟล์จาก git เครื่องใหม่")
+("ดึงไฟล์จาก git เครื่องใหม่")\
+
+คำสั่ง PIP
+pip list \
+("เช็ค แพ็คเก็จ")\
+pip install camelcase\
+("ติดตั้ว")\
+pip uninstall camelcase\
+("ถอนการติดตั้ง")\
